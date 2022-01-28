@@ -1,6 +1,6 @@
 <h1 align="center">Hey Folks 👋, I'm Prabhneet Narula</h1>
 <h3 align="center">aka a Smart Flutter Developer</h3>
-<h3 align="center">I really enjoy enjoy while working</h3>
+<h3 align="center">I really enjoy black coffee while working</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhneet-web&label=Profile%20views&color=0e75b6&style=flat" alt="prabhneet-web" /> </p>
 
