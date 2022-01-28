@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhneet-web" alt="prabhneet-web" /></a> </p>
 
+## About Me:-
+
 - 🔭 I’m currently working on [Meditation's Counter App](https://github.com/Prabhneet-Web/MeditationCounter)
 
 - 🌱 I’m currently learning **Flutter more & more. (Tho you can't be perfect in any language)**
@@ -17,7 +19,6 @@
 
 - ⚡ Fun fact about me:- **I mostly code all my projects very early morning.**
 
-## About Me:-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
