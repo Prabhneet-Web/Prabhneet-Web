@@ -34,10 +34,10 @@
 <h3 align="left">Examples of Work:</h3>
 
 <p float="left">
-  <img src="https://github.com/Prabhneet-Web/FaceboookAppUI/blob/master/lib/assets/snapshots/Snap1.png" width="250" />
-  <img src="https://github.com/Prabhneet-Web/FaceboookAppUI/blob/master/lib/assets/snapshots/Snap3.png" width="250" /> 
-  <img src="https://github.com/Prabhneet-Web/FoodAppUI/blob/master/lib/assets/snapshots/Snap1.png" width="250" />
-  <img src="https://github.com/Prabhneet-Web/FoodAppUI/blob/master/lib/assets/snapshots/Snap3.png" width="250" />
+  <img src="https://github.com/Prabhneet-Web/FaceboookAppUI/blob/master/lib/assets/snapshots/Snap1.png" width="220" />
+  <img src="https://github.com/Prabhneet-Web/FaceboookAppUI/blob/master/lib/assets/snapshots/Snap3.png" width="220" /> 
+  <img src="https://github.com/Prabhneet-Web/FoodAppUI/blob/master/lib/assets/snapshots/Snap1.png" width="220" />
+  <img src="https://github.com/Prabhneet-Web/FoodAppUI/blob/master/lib/assets/snapshots/Snap3.png" width="220" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhneet-web&show_icons=true&locale=en&layout=compact" alt="prabhneet-web" /></p>
