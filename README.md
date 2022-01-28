@@ -33,16 +33,16 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/Prabhneet-Web/FaceboookAppUI/blob/master/lib/assets/snapshots/Snap1.png" style="width:100%">
+    <img src="https://github.com/Prabhneet-Web/FaceboookAppUI/blob/master/lib/assets/snapshots/Snap1.png" style="width:20%">
   </div>
   <div class="column">
-    <img src="https://github.com/Prabhneet-Web/FaceboookAppUI/blob/master/lib/assets/snapshots/Snap3.png" style="width:100%">
+    <img src="https://github.com/Prabhneet-Web/FaceboookAppUI/blob/master/lib/assets/snapshots/Snap3.png" style="width:20%">
   </div>
   <div class="column">
-    <img src="https://github.com/Prabhneet-Web/FoodAppUI/blob/master/lib/assets/snapshots/Snap1.png" style="width:100%">
+    <img src="https://github.com/Prabhneet-Web/FoodAppUI/blob/master/lib/assets/snapshots/Snap1.png" style="width:20%">
   </div>
    <div class="column">
-    <img src="https://github.com/Prabhneet-Web/FoodAppUI/blob/master/lib/assets/snapshots/Snap3.png" style="width:100%">
+    <img src="https://github.com/Prabhneet-Web/FoodAppUI/blob/master/lib/assets/snapshots/Snap3.png" style="width:20%">
   </div>
 </div>
 
