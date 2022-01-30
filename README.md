@@ -8,11 +8,11 @@
 
 ## About Me:-
 
-- 🔭 I’m currently working on [Meditation's Counter App](https://github.com/Prabhneet-Web/MeditationCounter)
+- 🔭 I’m currently working on [Quiz App](https://github.com/Prabhneet-Web/QuizApp)
 
 - 🌱 I’m currently learning **Flutter more & more. (Tho you can't be perfect in any language)**
 
-- 👯 I’m looking to collaborate on [Meditation's Counter App](https://github.com/Prabhneet-Web/MeditationCounter)
+- 👯 I’m looking to collaborate on [Quiz App](https://github.com/Prabhneet-Web/QuizApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prabhneet-Web](https://github.com/Prabhneet-Web)
 
