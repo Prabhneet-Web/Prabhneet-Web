@@ -8,7 +8,7 @@
 
 ## About Me:-
 
-- 🔭 I’m currently working on [Quiz App](https://github.com/Prabhneet-Web/QuizApp)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/Prabhneet-Web/ExpenseTracker)
 
 - 🌱 I’m currently learning **Flutter more & more. (Tho you can't be perfect in any language)**
 
