@@ -8,8 +8,7 @@
 
 ## About Me:-
 
-- 🔭 I’m currently working on [Chant Go](https://github.com/Prabhneet-Web/ChantGo)
-
+- 🔭 I’m currently working on [Chant Go](https://github.com/Prabhneet-Web/frontier_sweets_billing)
 - 🌱 I’m currently learning **Flutter more & more. (Tho you can't be perfect in any language)**
 
 - 👯 I’m looking to collaborate on [Quiz App](https://github.com/Prabhneet-Web/QuizApp)
